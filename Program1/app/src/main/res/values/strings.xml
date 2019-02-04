@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Program1</string>
+    <string name="title_activity_output">OutputActivity</string>
+</resources>
