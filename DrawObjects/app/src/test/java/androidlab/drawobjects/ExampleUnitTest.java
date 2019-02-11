@@ -1,4 +1,4 @@
-package com.example.karthi.program3;
+package androidlab.drawobjects;
 
 import org.junit.Test;
 
